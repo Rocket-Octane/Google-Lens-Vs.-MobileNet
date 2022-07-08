@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(84, 84, 84);
+    color: white;
+}
+
+#GoogleLensLogo {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+#vs {
+    color: red;
+}
+
+.test_image_text {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+ol{
+    padding-top: 20px;
+}
+
+.test_image_and_result {
+    background-color: rgb(157, 157, 157);
+    width: 90%;
+    margin-left: 65px;
+    height: 500px;
+    border-radius: 50px;
+    box-shadow: 1px 1px 38px black;
+}
+
+.output_label {
+    background-color: white;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.model_name {
+    color: purple;
+}
+
+hr{
+    width: 65.5%;
+    float: right;
+}
+
+h4{
+    padding-left: 400px;
+    padding-top: 10px;
+}
