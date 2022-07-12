@@ -13,6 +13,46 @@ body {
     color: red;
 }
 
+.mini_result{
+    float: center;
+
+}
+
+#bed{
+    float: left;
+    width: 53%;
+}
+#toy{
+    float: left;
+    width: 100%;
+}
+#sneakers{
+    float: left;
+    width: 100%;
+}
+#headphones{
+    float: left;
+    width: 100%;
+}
+#water_bottle{
+    float: left;
+    width: 53%;
+}
+
+.div_5{
+    height: 400px;
+}
+
+.final_result{
+    border-radius: 100px;
+    background-color: rgba(255, 192, 203, 0.871);
+    width: 80%;
+    margin-left: 65px;
+    border: 5px black;
+    box-shadow: 1px 1px 38px black;
+    height: 150px;
+}
+
 .test_image_text {
     float: left;
     margin-left: 20px;
@@ -23,12 +63,15 @@ ol{
     padding-top: 20px;
 }
 
+#bottle{
+    width: 60%;
+}
+
 .test_image_and_result {
     background-color: rgb(157, 157, 157);
     width: 90%;
     margin-left: 65px;
-    height: 500px;
-    border-radius: 50px;
+    border-radius: 30px;
     box-shadow: 1px 1px 38px black;
 }
 
